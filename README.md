@@ -25,7 +25,7 @@ A Collection of Hackintosh EFIs for MSI B85M-E45 Motherboard for different confi
 | 🌐 **Ethernet** | Realtek **RTL8111G** |
 | 📡 **Wi-Fi / Bluetooth** | Apple Airport **BCM94360CD** (PCIe Adapter) |
 | 🧠 **BIOS** | **V10.9** |
-![71CAC3B8-1503-45F2-A6DF-650450B8B6B0_1_105_c](https://github.com/user-attachments/assets/0e0d806d-0c70-4ef0-a6a0-734ae7c07e0c)
+![71CAC3B8-1503-45F2-A6DF-650450B8B6B0_1_201_a](https://github.com/user-attachments/assets/f2eb1c82-023a-4c7d-9f5b-3eef1bc08969)
 
 ## ✅ **WHAT’S WORKING?**
 # 🚀 **EVERYTHING — FULLY FUNCTIONAL**
